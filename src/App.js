@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React EEE
+          feature change
         </a>
       </header>
     </div>
